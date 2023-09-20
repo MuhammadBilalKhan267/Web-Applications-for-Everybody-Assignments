@@ -1,2 +1,2 @@
 # Web-Applications-for-Everybody-Assignments
-Assignments for my specialization Web applications for everybody
+These are few basic web applications that I created as assignments in my Web Applications for Everybody specialization.
